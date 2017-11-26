@@ -1,0 +1,43 @@
+.html
+{	
+     background-image:url(../resources/24.jpg);	
+	 background-size: cover; 
+}
+
+.opacity
+{
+	opacity:0.5
+}
+.backimage
+{
+	z-index:1;
+	position:absolute;
+	width:1070px;
+	height:547px;
+	left: 40px;
+	top: 99px;
+}
+.frontimage
+{
+	z-index:1;
+	position:absolute;	
+	left:0px;	
+	top:140px	
+}
+.tablefont
+{
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:28;
+	font-style:normal;
+	font-weight:bold;
+	color:red
+}
+.rowfont
+{
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:24;
+	font-style:normal;
+	font-weight:700;
+	color:yellow
+}
+

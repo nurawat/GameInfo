@@ -1,0 +1,45 @@
+.html
+{	
+     background-image:url(../resources/1.jpg);	
+	 background-size: cover;	
+	 z-index:-1;
+}
+.opacity
+{
+	opacity:0.6;
+	z-index:1
+}
+a.nounderline
+{
+	text-decoration:none;
+}
+
+.backimage
+{
+    z-index:1;
+	position:absolute;
+	top:100; 
+	left:25px;	
+}
+.frontimage
+{
+	z-index:2;
+	position:relative;
+	top:360px;
+	left:10px;		
+}
+.mydots
+{
+	z-index:2;
+	position:relative;
+	text-align:center;
+	top:400px;
+	left:110px;
+	width:15px;
+	height:15px
+}
+.mygif
+{
+	top:420px;
+	left:160px
+}
